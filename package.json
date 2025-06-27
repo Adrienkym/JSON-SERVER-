@@ -1,0 +1,12 @@
+{
+  "name": "json-server-backend",
+  "version": "1.0.0",
+  "description": "Deployed json-server backend for student attendance",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
